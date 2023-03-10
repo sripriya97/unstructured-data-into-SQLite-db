@@ -1,0 +1,17 @@
+amazon\data\model\UPCData.class
+amazon\file\extractor\JsonConverter.class
+amazon\file\extractor\ASINDataFileProcessor.class
+amazon\data\model\Categories.class
+amazon\data\model\Prices.class
+amazon\data\model\ProcessedFileObject.class
+amazon\data\utils\CSVFileWriter.class
+amazon\file\extractor\GZFileExtractor.class
+Amazon.class
+amazon\data\model\AmazonPriceSalesRankDetails.class
+amazon\data\model\BuyBoxSellerData.class
+amazon\data\model\VariationsData.class
+amazon\data\model\EANData.class
+amazon\data\model\FrequentlyBoughtTogetherData.class
+amazon\data\model\MarketPlaceDepartment.class
+amazon\data\model\SalesRankData.class
+amazon\data\model\Product.class
